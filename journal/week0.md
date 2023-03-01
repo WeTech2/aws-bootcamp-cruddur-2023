@@ -25,10 +25,12 @@ Install AWS CLI via Gitpod
 
 My Napkin Diagram Cruddur-Conceptual Diagram
 
-https://lucid.app/lucidchart/23aa6faa-56af-4f51-9479-531e78b15510/edit?viewport_loc=166%2C194%2C1714%2C832%2CtSWyeBOTKUAO&invitationId=inv_9ba81bcb-f024-4072-b108-f440c833dd20
+https://lucid.app/lucidchart/23aa6faa-56af-4f51-9479-531e78b15510/edit?beaconFlowId=35528D0FE25C0FDD&invitationId=inv_9ba81bcb-f024-4072-b108-f440c833dd20&page=tSWyeBOTKUAO#
+
 
 My Logical Diagram Crudder Logical Diagram
-https://lucid.app/lucidchart/23aa6faa-56af-4f51-9479-531e78b15510/edit?viewport_loc=5%2C90%2C2647%2C1285%2C0_0&invitationId=inv_9ba81bcb-f024-4072-b108-f440c833dd20
+
+https://lucid.app/lucidchart/23aa6faa-56af-4f51-9479-531e78b15510/edit?beaconFlowId=35528D0FE25C0FDD&invitationId=inv_9ba81bcb-f024-4072-b108-f440c833dd20&page=0_0#
 
 Setup a Billing Alarm with SNS via the AWS CLI 
 Create a topic 
